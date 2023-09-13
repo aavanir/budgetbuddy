@@ -10,6 +10,7 @@ Key Features:
 Technologies Used: 
 - Frontend: HTML, CSS, JavaScript, ReactJS
 - Backend: Node.js
+- Hosted on Google Firebase
 
 Next Steps:
 - Add user authentication
