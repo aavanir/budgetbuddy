@@ -10,3 +10,5 @@ Key Features:
 Technologies Used: 
 - Frontend: HTML, CSS, JavaScript, ReactJS
 - Backend: Node.js
+
+Credit: Schwarzmüller, M (2011) Udemy [Source code]. http://www.udemy.com 
