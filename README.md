@@ -11,4 +11,12 @@ Technologies Used:
 - Frontend: HTML, CSS, JavaScript, ReactJS
 - Backend: Node.js
 
+Next Steps:
+- Add user authentication
+- Add data storage
+- Make BudgetBuddy into a mobile application
+
+  
 Credit: Schwarzmüller, M (2023) Udemy [Source code]. http://www.udemy.com 
+
+
