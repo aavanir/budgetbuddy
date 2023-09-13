@@ -1,5 +1,5 @@
 # BudgetBuddy
-BudgetBuddy is a user-friendly web application designed to help you take control of your finances and manage your expenses effortlessly. With intuitive features and a sleek interface, it's the ultimate tool for staying on top of your financial goals.  
+BudgetBuddy is a user-friendly web application designed to help you take control of your finances and manage your expenses effortlessly. With intuitive features and a sleek interface, it's the ultimate tool for staying on top of your financial goals. I created BudgetBuddy to learn ReactJS through the Udemy "React - The Complete Guide 2023 (incl. React Router & Redux)" course.
 
 Key Features:
 - **Expense Tracking**: Easily record and categorize your expenses to see where your money is going.
